@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hrick-Karna-roy
 - 👀 I’m interested in ... MACHINE LEARNING AND ARTIFICIAL INTELLIGANCE
 - 🌱 I’m currently learning ... DEEP NURAL NETWORK
-- 💞️ I’m looking to collaborate on ... MANY THINGS
+- 💞️ I’m looking to collaborate on ... MANY THINGS along with PODCASTS
 - 📫 How to reach me ... hrickkarnaroy@gmail.com
 
 <!---
