@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Hrick-Karna-roy
-- 👀 I’m interested in ... MACHINE LEARNING AND ARTIFICIAL INTELLIGANCE
+- 👀 I’m in relationship with MACHINE LEARNING AND ARTIFICIAL INTELLIGANCE
 - 🌱 I’m currently learning ... DEEP NURAL NETWORK
-- 💞️ I’m looking to collaborate on ... MANY THINGS along with PODCASTS
-- 📫 How to reach me ... hrickkarnaroy@gmail.com
+- 💞️ I’m looking to collaborate on ... MANY THINGS along with PODCASTS (indian history, colonialism, culture of nation)
+- 📫 How to reach me ... hrickkarnaroy@gmail.com,7679456060
 
-<!---
-Hrick-Karna-roy/Hrick-Karna-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
